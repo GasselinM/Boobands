@@ -3,7 +3,7 @@
 <h3>To illustrate this app, a new module has been created based on metalarchives website (https://www.metal-archives.com/)</h3>
 
 <b>Exemple of results:</b><br>
-boobands:/search> search metal<br>
+<b>boobands:/search></b> search metal<br>
  1 — Metal (metalarchives)<br>
 	Genre: Heavy/Power Metal - Country: Australia<br>
  2 — Agent Metal (metalarchives)<br>
@@ -17,7 +17,7 @@ boobands:/search> search metal<br>
  6 — Cursed Metal (metalarchives)<br>
 ...<br>
 <br>
-boobands:/search> info 5<br>
+<b>boobands:/search></b> info 5<br>
 Brigade Metal<br>
 Genre: Heavy Metal<br>
 Country: Indonesia<br>
@@ -27,7 +27,7 @@ Some members are now as a Dangdut musician (A genre of Indonesian popular music 
 <br>
 <h4>For the next tools you need an account on the metalarchives website:</h4>
 
-boobands:/info> favorites<br>
+<b>boobands:/info></b> favorites<br>
  1 — Exodus (metalarchives)<br>
 	https://www.metal-archives.com/bands/Exodus/173 <br>
 	Genre: Thrash Metal - Country: United States<br>
@@ -38,9 +38,9 @@ boobands:/info> favorites<br>
 	https://www.metal-archives.com/bands/Metallica/125<br>
 	Genre: Thrash Metal (early), Hard Rock/Heavy/Thrash Metal (later) - Country: United States <br>
 <br>
-The next tool will return groups based on your favorite groups:<br>
+<h5>The next tool will return groups based on your favorite groups:<br></h5>
 
-boobands:/favorite> suggestion<br>
+<b>boobands:/favorite></b> suggestion<br>
  1 — Heathen (metalarchives)<br>
 	https://www.metal-archives.com/bands/Heathen/378<br>
  2 — Metal Church (metalarchives)<br>
