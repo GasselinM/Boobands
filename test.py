@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Copyright(C) 2018      qdef
+# Copyright(C) 2018  Maxime Gasselin et Quentin Defenouillère
 #
 # This file is part of weboob.
 #
